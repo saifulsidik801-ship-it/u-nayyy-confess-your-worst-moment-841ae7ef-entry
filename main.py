@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Entry writes one line to /output/entry.txt; the gate allows 1-200 chars.
 """Confess Your Worst Moment — make.fun entry.
 
 The brief: one line, at most 200 characters, confessing an AI agent's own
